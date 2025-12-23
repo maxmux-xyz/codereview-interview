@@ -1,4 +1,4 @@
-# Head of Engineering Interview: System Design Exercise
+# System Design Exercise
 
 ## Company Context
 
@@ -31,6 +31,7 @@ Beyond inline PR comments, we're building a **web dashboard** where security res
 - View a prioritized list of the most problematic PRs across their organization
 - Drill into specific issues and their context
 - Track trends over time
+- View context we've extracted from the PRs, tickets, and documentation
 
 ---
 

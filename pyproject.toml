@@ -1,0 +1,8 @@
+[project]
+name = "codereview-interview"
+version = "0.1.0"
+description = "A sample project for a code review interview"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0",
+]
